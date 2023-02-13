@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Cho anh xin phép làm con rể của mẹ em nha Ngố🥰 ',
     btnYes: 'Vâng, chắc chắn rồi <33',
     btnNo: 'Không, Anh iu à :3',
-    question:'anh cũng chả hứa là anh làm được gì cả anh cũng chỉ dám nói là anh sẽ cố gắng thôi🥰',
+    question:'anh cũng chả hứa là anh làm được gì cả anh cũng chỉ dám nói là anh sẽ cố gắng thôi🥰. Viết vào dưới này gửi đi nhaaaaa❤️❤️❤️❤️❤️❤️',
     btnReply: 'Gửi cho anh <3',
     reply: 'Em yêu anh rất nhiều❤️❤️❤️ ',
     mess: 'Anh biết mà 🥰. Yêu em rất nhiều 😘😘',
