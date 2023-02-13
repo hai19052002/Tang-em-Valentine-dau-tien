@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Bé Khủng Long à!',
-    introDesc: `Chào người đẹp Thái Bình vừa gặp 1 phát thình lình iu ngayyyy`,
-    btnIntro: 'Ấn đây nào bé Trang',
-    title: 'Người đẹp à em phải trả lời thật lòng cho anh biết nha 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu anh quá điii 🙄',
-    btnNo: 'Không, hehe sao ấn được bé ơiii 😒',
+    introTitle: 'Ngố à🥰!',
+    introDesc: `Hello người đẹp Hưng Yên. Anh nhìn một cái phát điên lên rồi`,
+    btnIntro: '❤️hihi❤️',
+    title: 'Mình đã yêu nhau được bao lâu rồi em nhỉ, anh cảm ơn người yêu anh đã ở bên anh trong 70 ngày vừa qua nha 😙 😙',
+    desc: 'Cho anh xin phép làm con rể của mẹ em nha Ngố🥰 ',
+    btnYes: 'Vâng, chắc chắn rồi <33',
+    btnNo: 'Không, Anh iu à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại lừa được anh 🥹',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 8h anh qua đón nhé công chúa.',
+    messDesc: 'Tối nay học xong mình đi ăn nha Ngố🥰.',
     btnAccept: 'Okiiiii lun 😌',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/duchainguyen19052002/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
